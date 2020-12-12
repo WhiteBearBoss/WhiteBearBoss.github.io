@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WhiteBearBoss.github.io</id>
     <title>WhitBearBoss`s Blog</title>
-    <updated>2020-12-12T13:16:59.158Z</updated>
+    <updated>2020-12-12T13:23:17.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://WhiteBearBoss.github.io"/>
     <link rel="self" href="https://WhiteBearBoss.github.io/atom.xml"/>
@@ -30,6 +30,10 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>这个页面主要用于分享关于机器人、人工智能方面的开源代码👨‍💻和相关教程😎</p>
 <!-- more -->
+<p>1.科大未知队伍的机器人开发源码<br>
+https://gitee.com/cv_team/uestc-careye<br>
+2.吉林大学TARS-GO战队视觉代码JLURoboVision<br>
+https://gitee.com/qunshanhe/JLURoboVision</p>
 ]]></content>
     </entry>
 </feed>

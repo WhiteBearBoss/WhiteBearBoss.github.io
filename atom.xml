@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WhiteBearBoss.github.io</id>
     <title>WhitBearBoss`s Blog</title>
-    <updated>2020-12-12T13:04:04.118Z</updated>
+    <updated>2020-12-12T13:08:12.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://WhiteBearBoss.github.io"/>
     <link rel="self" href="https://WhiteBearBoss.github.io/atom.xml"/>
@@ -10,4 +10,26 @@
     <logo>https://WhiteBearBoss.github.io/images/avatar.png</logo>
     <icon>https://WhiteBearBoss.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, WhitBearBoss`s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[心得]]></title>
+        <id>https://WhiteBearBoss.github.io/post/xin-de/</id>
+        <link href="https://WhiteBearBoss.github.io/post/xin-de/">
+        </link>
+        <updated>2020-12-12T13:07:23.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>主要写一些内心的分享🙌</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分享贴]]></title>
+        <id>https://WhiteBearBoss.github.io/post/fen-xiang-tie/</id>
+        <link href="https://WhiteBearBoss.github.io/post/fen-xiang-tie/">
+        </link>
+        <updated>2020-12-12T13:05:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>这个页面主要用于分享关于机器人、人工智能方面的开源代码👨‍💻和相关教程😎</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这个页面主要用于分享关于机器人、人工智能方面的开源代码👨‍💻和相关教程😎</p>
+<!-- more -->
+]]></content>
+    </entry>
 </feed>
